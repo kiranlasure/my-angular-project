@@ -1,0 +1,7 @@
+Division of two numbers without using / and % operator
+
+reverse of number.
+
+Hexa to to decimal and then decimal to binary.
+
+vowels count from given string.

@@ -11,7 +11,9 @@ import { Component, OnInit } from '@angular/core'
 export class MsgComponent implements OnInit {
 
   
-
+  title = 'This is My first web Page';
+  p = 'this is my first pargraph n i m writing something in this';
+  name: string = '';
   constructor() { }
 
    ngOnInit() {
